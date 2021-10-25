@@ -1,0 +1,18 @@
+body{
+  background-attachment: fixed;
+     background-image: url('https://st2.depositphotos.com/1653909/8228/i/950/depositphotos_82284046-stock-photo-roulette-wheel-background.jpg');
+     background-size: cover;
+     background-repeat: repeat;
+     display: flex;
+     font-family: 'Arial', sans-serif;
+     color: gold;
+     font-size: 1.3em;
+     justify-content: center;
+     flex-direction: column;
+     align-items: center;
+  padding-top:80px;
+  word-wrap:break-word;
+}
+img{
+  height: 200px;
+}
